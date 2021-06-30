@@ -97,7 +97,7 @@
                     <p>VERSION : 1 </p>
                      <p>Last Update : 28.06.21 </p>
                     <p class="bottom">45. MB .Apk</p>
-<a href="./download.php?file=Lorav1.apk" class="btn btn-lg btn-success"> DOWNLOAD APK</a><hr>
+<a href="./download.html?file=Lorav1.apk" class="btn btn-lg btn-success"> DOWNLOAD APK</a><hr>
 
 <a href="download.php?file=Lorav1.apk">exampleA.zip</a>
 <p align="center">
